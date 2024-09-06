@@ -53,17 +53,6 @@ Setelah Anda menjalankan skrip, model akan:
 3. Melakukan **prediksi** untuk proyek baru berdasarkan input yang diberikan.
 4. Menampilkan hasil prediksi dan memberikan rekomendasi apakah proyek tersebut sebaiknya dilanjutkan atau ditunda.
 
-## Contoh Visualisasi
-
-Berikut adalah contoh visualisasi yang dihasilkan oleh model:
-
-1. **Pohon Keputusan**: Memberikan gambaran struktur keputusan yang diambil oleh model.
-
-    ![Decision Tree](path_to_decision_tree_image.png)
-
-2. **Permukaan Keputusan**: Menampilkan bagaimana model membagi ruang keputusan berdasarkan dua fitur pertama (Anggaran dan Waktu).
-
-    ![Decision Surface](path_to_decision_surface_image.png)
 
 ## Struktur Data
 
@@ -78,10 +67,4 @@ Berikut adalah contoh visualisasi yang dihasilkan oleh model:
     - 0 = Proyek Ditunda
     - 1 = Proyek Dilanjutkan
 
-## Kontribusi
 
-Kontribusi selalu diterima dengan tangan terbuka! Silakan buka _issue_ atau kirim _pull request_ untuk perubahan atau fitur yang ingin Anda tambahkan.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
